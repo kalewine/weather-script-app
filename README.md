@@ -1,7 +1,7 @@
 # weather-script-app
 ## A simple weather app for the command line
 ### **Background:**
-I built this script as a learning excercise during my Develop Carolina appreticeship. 
+I built this script as a learning excercise during my Develop Carolina apprenticeship. 
 The instructions for this assignment can be found here: [Engineerkit](https://link-url-here.org)
 I used the [weatherapi.com](https://www.weatherapi.com/) api.
 ### **Instructions:**
